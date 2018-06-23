@@ -184,12 +184,13 @@ h1 {
     font-size: 18px;
     background: lightgreen;
     text-decoration: none;
-    color: white;
+    color: black;
     
 }
 
 .title:hover {
     color: blue;
+    border: 1px solid black;
 }
 
 .title:focus {
