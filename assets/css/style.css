@@ -153,6 +153,10 @@ h1 {
     color: white;
 }
 
+#form {
+    margin-bottom: 60px;
+}
+
 /* beginning of portfolio page */
 
 .body-portfolio {
@@ -200,6 +204,10 @@ h1 {
 .title:focus {
     background: red;
     color: white;
+}
+
+#about_me {
+    margin-bottom: 60px;
 }
 
 
