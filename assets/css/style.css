@@ -104,6 +104,11 @@ h1 {
     margin-top: 15px;
     font-size: 18px;
     line-height: 26px;
+    
+}
+
+.about_me:last-child {
+    margin-bottom: 60px;
 }
 
 #my_image {
