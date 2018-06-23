@@ -121,7 +121,7 @@ h1 {
 }
 
 .input-a {
-    width: 35%;
+    width: 45%;
     display: block;
     font-size: 18px;
     margin-bottom: 15px;
@@ -132,7 +132,7 @@ h1 {
 }
 
 #textarea {
-    width: 35%;
+    width: 45%;
     height: 150px;
     display: block;
     font-size: 18px;
@@ -167,6 +167,10 @@ h1 {
     float: left;
     margin-right: 30px;
     margin-top: 30px;
+}
+
+.portfolio-link:last-child {
+    margin-bottom: 60px;
 }
 
 .portfolio-image {
