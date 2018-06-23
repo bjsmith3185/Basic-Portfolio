@@ -8,7 +8,7 @@ body {
 /* beginning of navbar css */
 
 header {
-    background: white;
+    background: rgb(207, 206, 206);
     height: 60px;
     border-bottom: 2px solid rgb(61, 148, 248);
  }
@@ -25,6 +25,10 @@ header {
     border-radius: 5px;
 }
 
+#nav_left:hover {
+    border: 1px solid black;
+}
+
 #my_name {
     color: white;
     text-align: center;
@@ -36,6 +40,7 @@ header {
 
 #my_name:hover {
     color: rgb(61, 148, 248);
+    
 }
 
 #nav_right {
@@ -92,19 +97,21 @@ h1 {
 .body {
     margin: 0px 15px 20px 15px;
     border-top: 2px solid gray;
-    /* height: auto; */
+    
 }
 
 .about_me {
     margin-top: 15px;
     font-size: 18px;
+    line-height: 26px;
 }
 
 #my_image {
     width: 200px;
     float: left;
     margin-right: 15px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
+    padding-top: 20px;
 }
 
 
@@ -219,7 +226,7 @@ footer {
     width: 100%;
     border-top: 4px solid rgb(61, 148, 248);
     height: 60px;
-    background: rgb(158, 157, 157);
+    background: rgb(68, 68, 68);
     text-align: center;
 }
 
